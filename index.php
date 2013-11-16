@@ -17,15 +17,13 @@
   	   
 			<!-- main area -->
 		 <div class="container">
-		 		 	
-			  	
+		 		 	  	
 	  		<div class="jumbotron">
 			    
-	  					<img src="../resources/images/anime_girl.jpg" alt="madobe anime computer science"></img>
+	  				Base Template
 				    	
   			</div><!-- End container -->
-  	
-  		
+
 			<? include('something.php'); ?>
 			
 		</div>
